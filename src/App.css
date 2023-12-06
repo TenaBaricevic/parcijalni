@@ -1,3 +1,11 @@
+.button {
+  background-color: rgb(81, 218, 236);
+}
+
+.container {
+  text-align: center;
+}
+
 .App {
   text-align: center;
 }
